@@ -14,3 +14,7 @@ KR_JOURNAL,KR_PUBLISHER,EN_JOURNAL,EN_PUBLISHER
 어문학,한국어문학회,The Korean Language and Literature,The Society Of The Korean Language and Literature
 ```
 
+
+Any suggestions are welcome: jungyeul.park _@_ gmail.com 
+---
+Thu May 11 03:43:06 CEST 2023
