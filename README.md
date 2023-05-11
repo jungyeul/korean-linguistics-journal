@@ -1,4 +1,4 @@
-# Korean Journals in Linguistics 
+# Linguistics Journals written in Korean (for bib)
 
 
 ```
