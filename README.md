@@ -4,6 +4,7 @@
 ```
 KR_JOURNAL,KR_PUBLISHER,EN_JOURNAL,EN_PUBLISHER
 국어학,국어학회,Journal of Korean Linguistics,The Society of Korean Linguistics
+국어문학,국어문학회,Journal of Korean Language and Literature,Korean Language & Literature Association
 담화와 인지,담화인지언어학회,Discourse and Cognition,The Discourse and Cognitive Linguistics Society of Korea
 언어와언어학,한국외국어대학교 언어연구소,Language and Linguistics,Language Research Institute (Hankuk university of foreign studies)
 언어학,사단법인 한국언어학회,Korean Journal of Linguistics (EONEOHAG),The Linguistic Society of Korea
