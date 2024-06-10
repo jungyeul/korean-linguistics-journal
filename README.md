@@ -8,7 +8,7 @@ KR_JOURNAL,KR_PUBLISHER,EN_JOURNAL,EN_PUBLISHER
 담화와 인지,담화인지언어학회,Discourse and Cognition,The Discourse and Cognitive Linguistics Society of Korea
 언어와언어학,한국외국어대학교 언어연구소,Language and Linguistics,Language Research Institute (Hankuk University of Foreign Studies)
 언어학,사단법인 한국언어학회,Korean Journal of Linguistics (EONEOHAG),The Linguistic Society of Korea
-어학연구,서울대학교 언어교육원,Language Research,Language Research, Language Education Institute (Seoul National University)
+어학연구,서울대학교 언어교육원,Language Research,Language Education Institute (Seoul National University)
 한국어교육,국제한국어교육학회,Journal of Korean Language Education,The International Association For Korean Language Education
 한국어학,한국어학회,Korean Linguistics,The Association For Korean Linguistics
 한글,한글학회,HAN-GEUL,Hangeul Hakhoe
